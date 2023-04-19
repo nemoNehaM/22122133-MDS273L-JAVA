@@ -14,3 +14,32 @@ To deposit money
 To withdraw money
 To print the transactions
 To print account summary
+
+Flowchart link : https://drive.google.com/file/d/1OCfZVeEENCpOgH1BWdX2Dn9uDqg9rgHN/view?usp=sharing
+
+Bank Account Management System
+This project is a simple console-based application that allows users to manage their bank accounts by performing basic operations such as depositing money, withdrawing money, and viewing their transaction history.
+
+Installation
+This application is written in Java and can be run on any machine that has a Java Virtual Machine (JVM) installed. To run the application, follow these steps:
+
+Download the source code from the GitHub repository: https://github.com/username/repo-name
+Extract the downloaded ZIP file to a directory of your choice.
+Open a command prompt (on Windows) or terminal (on macOS or Linux) and navigate to the extracted directory using the cd command.
+Compile the source code by running the following command: javac lab4.java
+Run the compiled program using the following command: java lab4
+Usage
+When you run the program, you will be presented with a menu of options:
+
+To Deposit
+To Withdraw
+To print the Transactions
+To print the Summary
+To Exist
+To select an option, enter the corresponding number and press Enter. Follow the prompts to perform the desired operation.
+
+Contributing
+If you'd like to contribute to this project, feel free to submit a pull request. Please make sure your code follows the existing style and conventions, and include test cases where appropriate.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more information.
